@@ -1,8 +1,9 @@
 # Nitrogen-OS
 Requirements:
 
-MacOS X
-Python 3.9
+- MacOS X
+
+- Python 3.9
 
 Installation instructions:
 
