@@ -9,7 +9,7 @@ Installation instructions:
 
 1: Download zip file and unzip it
 
-If you have an older installation:
+If you have an older NitrogenOS installation:
 
 *: Transfer data from old installation to new installation,
 
