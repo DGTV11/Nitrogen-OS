@@ -21,4 +21,10 @@ Else:
 
 2: Check if you installed all required libraries (/Volumes/NitrogenOS/[NitrogenOS installlation]/README.txt) (If not all are installed, use pip3 install [library])
 
+3: Do these:
+
+- Download homebrew
+
+- type in this command into the terminal; "brew install git" (No quotes)
+
 3: Enjoy Nitrogen OS!
