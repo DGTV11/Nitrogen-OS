@@ -19,4 +19,6 @@ Else:
 
 *: Move files in disk image to any drive with the same Volume name and exFat format
 
-2: Enjoy Nitrogen OS!
+2: Check if you installed all required libraries (/Volumes/NitrogenOS/[NitrogenOS installlation]/README.txt)
+
+3: Enjoy Nitrogen OS!
