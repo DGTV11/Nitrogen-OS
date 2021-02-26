@@ -1,9 +1,11 @@
-# Nitrogen-OS
+# Nitrogen-OS Era:
 Requirements:
 
 - MacOS X
 
 - Python 3.9
+
+- VLC Media player installed in root applications directory
 
 Installation instructions:
 
